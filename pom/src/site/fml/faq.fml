@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<faqs id="General FAQ">
+  <part id="General">
+    <faq id="where">
+      <question>Where did ValueTypeJ come from?</question>
+      <answer>
+        <p>
+          ValueTypeJ was initiated by Kevin Brockhoff after many years of experience
+          in maintaining and refactoring enterprise applications. He found initial development
+          of applications usually focused on time-to-market at the expense of maintainability.
+          This prioritization is often the correct one. He was looking for a way improve
+          maintainability without sacrificing time-to-market.
+        </p>
+        <p>
+          The initial objective of ValueTypeJ was to develop an unobtrusive, flexible API for
+          handling whole values in Java and all other languages capable of running inside the JVM.
+          It was to be equally capable at handling the mapping between Java objects and DBMS
+          persistence and text-based representations such as XML and JSON.  
+        </p>
+      </answer>
+    </faq>
+    <faq id="why">
+      <question>What philosophy drives ValueTypeJ?</question>
+      <answer>
+        <p>
+          The Toyota Way Principle 6: Standardized tasks are the foundation for continuous
+          improvement and employee empowerment. By allowing the chief architect of an enterprise
+          to define a limited number of allowable data types, consistency is maintained
+          across an enterprise's code base without slowing designers and programmers
+          as they are doing their daily work.
+        </p>
+      </answer>
+    </faq>
+  </part>
+</faqs>

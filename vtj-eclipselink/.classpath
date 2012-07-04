@@ -1,0 +1,18 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/easymock/easymock/2.4/easymock-2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/eclipselink/1.0.1/eclipselink-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.5.5/jcl-over-slf4j-1.5.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/0.9.11/logback-classic-0.9.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/0.9.11/logback-core-0.9.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/osgi/osgi_R4_compendium/1.0/osgi_R4_compendium-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/osgi/osgi_R4_core/1.0/osgi_R4_core-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.5.5/slf4j-api-1.5.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/testng/testng/5.7/testng-5.7-jdk15.jar"/>
+  <classpathentry kind="src" path="/vtj"/>
+</classpath>

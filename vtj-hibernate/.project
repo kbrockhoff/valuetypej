@@ -1,0 +1,23 @@
+<projectDescription>
+  <name>vtj-hibernate</name>
+  <comment>ValueTypeJ is a comprehensive Java library of all value types
+		(whole values) used in a typical domain model with a consistent
+		API for use by all JVM languages. It also provides conversion
+		strategies for many commonly-used persistence and serialization
+		frameworks.</comment>
+  <projects>
+    <project>vtj</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
+    </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+  </natures>
+</projectDescription>

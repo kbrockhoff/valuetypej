@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id:  $ -->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.codekaizen</groupId>
+	<artifactId>codekaizen-parent</artifactId>
+	<version>1</version>
+	<packaging>pom</packaging>
+	<name>Code Kaizen</name>
+	<description>
+		We believe continuous, small, readily-attainable improvements
+		across all facets of the Software Development Life Cycle can
+		greatly improve Business / IT Alignment. We are dedicated to
+		providing easy-to-assimilate tools that facilitate incremental
+		improvements while at the same time making your life easier.
+	</description>
+	<organization>
+		<name>Kevin Brockhoff</name>
+		<url>http://www.codekaizen.org/</url>
+	</organization>
+	<properties>
+		<organization.logo>
+			http://www.codekaizen.org/img/CodeKaizenLogoSm.png
+		</organization.logo>
+	</properties>
+</project>

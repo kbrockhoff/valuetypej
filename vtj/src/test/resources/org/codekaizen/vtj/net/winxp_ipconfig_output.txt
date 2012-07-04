@@ -1,0 +1,30 @@
+
+Windows IP Configuration
+
+        Host Name . . . . . . . . . . . . : xyland
+        Primary Dns Suffix  . . . . . . . : 
+        Node Type . . . . . . . . . . . . : Unknown
+        IP Routing Enabled. . . . . . . . : No
+        WINS Proxy Enabled. . . . . . . . : No
+        DNS Suffix Search List. . . . . . : dallas.ecxtech.com
+
+Ethernet adapter Local Area Connection:
+
+        Media State . . . . . . . . . . . : Media disconnected
+        Description . . . . . . . . . . . : 3Com 3C920 Integrated Fast Ethernet Controller (3C905C-TX Compatible)
+        Physical Address. . . . . . . . . : 00-06-5B-BC-5D-DD
+
+Ethernet adapter Local Area Connection 2:
+
+        Connection-specific DNS Suffix  . : dallas.ecxtech.com
+        Description . . . . . . . . . . . : 3Com 3C920 Integrated Fast Ethernet Controller (3C905C-TX Compatible) #2
+        Physical Address. . . . . . . . . : 00-06-5B-EB-6E-9E
+        Dhcp Enabled. . . . . . . . . . . : Yes
+        Autoconfiguration Enabled . . . . : Yes
+        IP Address. . . . . . . . . . . . : 192.168.9.45
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 192.168.9.1
+        DHCP Server . . . . . . . . . . . : 192.168.9.1
+        DNS Servers . . . . . . . . . . . : 192.168.9.4
+        Lease Obtained. . . . . . . . . . : Friday, August 08, 2008 5:20:37 AM
+        Lease Expires . . . . . . . . . . : Saturday, August 09, 2008 5:20:37 AM

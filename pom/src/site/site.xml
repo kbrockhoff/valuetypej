@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="ValueTypeJ">
+	<bannerLeft>
+		<name>ValueTypeJ</name>
+		<src>images/ValueTypeJLogo.png</src>
+		<href>http://valuetypej.codekaizen.org/</href>
+	</bannerLeft>
+	<publishDate format="yyyy-MM-dd" position="right" />
+	<body>
+		<breadcrumbs>
+			<item name="codeKaizen" href="http://codekaizen.org/"/>
+			<item name="ValueTypeJ" href="http://valuetypej.codekaizen.org/"/>
+		</breadcrumbs>
+		<menu name="Overview">
+			<item name="Welcome" href="index.html"/>
+			<item name="FAQ" href="faq.html"/>		
+		</menu>
+		<menu ref="reports" />
+	</body>
+	<skin>
+		<groupId>org.apache.maven.skins</groupId>
+		<artifactId>maven-default-skin</artifactId>
+		<version>1.0</version>
+	</skin>
+</project>
