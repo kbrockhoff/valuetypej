@@ -54,25 +54,14 @@
 
 	<mailingLists />
 	<issueManagement>
-		<system>trac</system>
-		<url>https://issues.codekaizen.org/projects/valuetypej/</url>
+		<system>github</system>
+		<url>https://github.com/kbrockhoff/valuetypej/issues</url>
 	</issueManagement>
 	<scm>
-		<connection>scm:svn:http://codekaizen.svnrepository.com/svn/valuetypej/trunk</connection>
-		<developerConnection>scm:svn:http://codekaizen.svnrepository.com/svn/valuetypej/trunk</developerConnection>
-		<tag>HEAD</tag>
-		<url>http://codekaizen.svnrepository.com/svn/valuetypej/trunk</url>
+		<connection>scm:git:https://github.com/kbrockhoff/valuetypej.git</connection>
+		<developerConnection>scm:git:git@github.com:kbrockhoff/valuetypej.git</developerConnection>
+		<url>https://github.com/kbrockhoff/valuetypej</url>
 	</scm>
-	<ciManagement>
-		<system>hudson</system>
-		<url>https://ci.codekaizen.org/</url>
-		<notifiers>
-			<notifier>
-				<type>mail</type>
-				<address>kbrockhoff@codekaizen.org</address>
-			</notifier>
-		</notifiers>
-	</ciManagement>
 	<distributionManagement>
 		<repository>
 			<id>internal</id>
